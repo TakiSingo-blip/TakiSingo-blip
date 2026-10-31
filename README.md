@@ -28,4 +28,6 @@
 - Interests: Gaming, tech, learning how systems work
 - Goal: Bursary-funded CS degree → Software / Systems career
 
-![Taki's Stats](https://github-readme-stats.vercel.app/api?username=TakiSingo-blip&show_icons=true&theme=tokyonight)
+### 📫 Connect
+[![GitHub](https://img.shields.io/badge/GitHub-TakiSingo--blip-black?style=flat&logo=github)](https://github.com/TakiSingo-blip)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Takalani%20Singo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/takalani-emmanuel-singo-546271448)
