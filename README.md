@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi, I'm Taki 👋 | CS @ UCT
 
-<!--
-**TakiSingo-blip/TakiSingo-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Grew up on games. Now learning how to build the tech behind them.
 
-Here are some ideas to get you started:
+🎮 Gamer turned builder | 💻 First-year BSc Computer Science @ University of Cape Town | 🛠️ Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm learning
+- **Languages:** Python (current), Java (current / next)
+- **Focus:** Programming Fundamentals, Object-Oriented Programming, Problem Solving
+- **Coursework:** CSC1015F / CSC1016S @ UCT
+
+### 🧰 Tech Stack
+[Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+[Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+[Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 🌱 Currently Working On
+- UCT fundamentals — building strong CS basics in Python
+- Transitioning to OOP with Java
+- Next: My first mini-project (text game / student tool)
+
+*No public projects yet — building my first ones this semester*
+
+### 📫 About Me
+- Location: Cape Town, SA
+- Interests: Gaming, tech, learning how systems work
+- Goal: Bursary-funded CS degree → Software / Systems career
+
+![Taki's Stats](https://github-readme-stats.vercel.app/api?username=TakiSingo-blip&show_icons=true&theme=tokyonight)
